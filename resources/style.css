@@ -1,0 +1,16 @@
+h1 {color:green;}
+h2 {color:green;}
+p {color:blue;}
+body {background-color:black;}
+h1 {
+text-shadow: 2px 2px #055c00;
+}
+h2 {
+text-shadow: 2px 2px #055c00;
+}
+p {
+text-shadow: 2px 2px #020042;			
+}
+a {
+text-shadow: 2px 2px #003542;			
+}
