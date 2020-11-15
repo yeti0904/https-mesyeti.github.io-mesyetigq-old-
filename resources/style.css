@@ -1,7 +1,7 @@
-h1 {color:red;}
-h2 {color:red;}
-p {color:red;}
-a {color:red;}
+h1 {color:green;}
+h2 {color:green;}
+p {color:blue;}
+a {color:blue;}
 body {background-color:black;}
 h1 {
 text-shadow: 2px 2px #055c00;
