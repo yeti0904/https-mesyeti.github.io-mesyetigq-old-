@@ -1,7 +1,7 @@
 h1 {color:green;}
 h2 {color:green;}
-p {color:#bad1d9;}
-a {color:#bad1d9;}
+p {color:#ffffff;}
+a {color:#ffffff;}
 body {
  background-image: url("mesyetigq.png");
  background-color: #cccccc;
@@ -13,8 +13,8 @@ h2 {
 text-shadow: 2px 2px #055c00;
 }
 p {
-text-shadow: 2px 2px #9aacb3;			
+text-shadow: 2px 2px #c9c9c9;			
 }
 a {
-text-shadow: 2px 2px #9aacb3;			
+text-shadow: 2px 2px #c9c9c9;			
 }
