@@ -1,7 +1,13 @@
 h1 {color:green;}
 h2 {color:green;}
-p {color:#ffffff;}
-a {color:#ffffff;}
+p {
+ background-color: #000000;
+ color:#ffffff;
+}
+a {
+ background-color: #000000;
+ color:#ffffff;
+}
 body {
  background-image: url("space1.jpg");
  background-color: #cccccc;
