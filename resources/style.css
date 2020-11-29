@@ -1,15 +1,19 @@
 h1 {color:green;}
 h2 {color:green;}
 p {
+ /*
  background-color: #000000;
+ */
  color:#ffffff;
 }
 a {
+ /*
  background-color: #000000;
+ */
  color:#ffffff;
 }
 body {
- background-image: url("space1.jpg");
+ background-image: url("space2.jpg");
  background-color: #cccccc;
 }
 h1 {
