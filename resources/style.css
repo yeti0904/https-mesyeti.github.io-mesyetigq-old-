@@ -19,9 +19,11 @@ body {
 }
 h1 {
 text-shadow: 2px 2px #055c00;
+font-family: "Lucida Console", monospace;
 }
 h2 {
 text-shadow: 2px 2px #055c00;
+font-family: "Lucida Console", monospace;
 }
 /*
 p {
