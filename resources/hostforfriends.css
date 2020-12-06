@@ -13,6 +13,12 @@ body {
 h1 {
   font-family: Helvetica, sans-serif;
 }
-h2 h3 h4 {
+h2 {
+  font-family: Helvetica, sans-serif;
+}
+h3 {
+  font-family: Helvetica, sans-serif;
+}
+h4 {
   font-family: Helvetica, sans-serif;
 }
