@@ -9,10 +9,6 @@ a {
 }
 body {
  background-color: #ffffff;
- background-image: url('https://media4.giphy.com/media/3osxYrhcl17YmhQzu0/giphy.gif?cid=ecf05e47i7hvdq9my63akjoevzfnp48f1uo8pacxlhbpgal3&rid=giphy.gif');
- background-repeat: no-repeat;
- background-attachment: fixed;
- background-position: center top;
 }
 h1 {
   font-family: Helvetica, sans-serif;
