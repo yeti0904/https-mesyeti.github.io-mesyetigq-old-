@@ -29,5 +29,5 @@ div {
   border: 1px solid #c3c3c3;
   display: flex;
   flex-wrap: wrap;
-  align-content: left;
+  align-content: center;
 }
