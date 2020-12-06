@@ -22,3 +22,12 @@ h3 {
 h4 {
   font-family: Helvetica, sans-serif;
 }
+
+div {
+  width: 600px;
+  height: 900px;
+  border: 1px solid #c3c3c3;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: left;
+}
