@@ -1,1 +1,55 @@
-
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HostForFriends</title>
+		<meta name="description" content="Get your own website for free!" />
+		<meta name="author" content="MESYETI" />
+		<link rel="stylesheet" href="https://mesyeti.gq/resources/hostforfriends.css">
+		<style>
+			button {
+				transition-duration: 0.4s;
+				border-radius: 25px;
+  				border-color: #00730f;
+				background-color: #00ff08;
+ 				padding: 15px 32px;
+  				text-align: center;
+  				text-decoration: none;
+  				display: inline-block;
+  				font-size: 16px;
+  				margin: 4px 2px;
+  				cursor: pointer;
+				}
+			button:hover {
+				background-color: #a1ffa4;
+			}
+			/*body {
+				background-image: url('YETIGQ.png');
+ 				background-repeat: no-repeat;
+				background-attachment: fixed;
+ 				background-position: left top;
+			}*/
+		</style>
+	</head>
+	<body>
+		<center><h1>HostForFriends</h1></center>
+		<center><h3>Signup</h3></center>
+		
+		
+		<form name='hff-signup' method='POST'><input type='hidden' name='form-name' value='hff-signup' />
+		<label>How would you like to be talked to about your project?: <select name="star[]" multiple>
+    <option value="E-Mail">E-Mail</option>
+    <option value="Discord">Discord (operator yeti#0904)</option>
+    </select></label>
+  	<p>
+    <label>Your E-Mail or discord tag: <input type="text" name="name" /></label>   
+  	</p>
+    <p>
+		<label>Write <b>everything</b> you want in your webpage: <textarea name="message"></textarea></label>
+		</p>
+    <p>
+    <button type="submit">Sign Up</button>
+    </p>
+    </form>
+		<p>Note: this service is not automatic, things will take time!</p>
+	</body>
+</html>
